@@ -2,9 +2,11 @@
 
 ## 1. Setup:
 
-- Create a new Next.js 14 application using the app router.
+- Create a new Next.js 14 Typescript application using app router.
 - Set up a Supabase project (database and authentication).
 - Initialize a Git repository for the project and create a repository on GitHub.
+- Use NextJS server actions
+- For form validations use react-hook-forms and Zod
 
 ## 2. Next.js:
 
